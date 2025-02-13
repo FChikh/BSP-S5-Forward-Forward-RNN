@@ -1,4 +1,4 @@
-# BSP S5: Extension of low-code development platform with intelligent components
+# BSP S5: Exploring the Forward-Forward Algorithm for Training Recurrent Neural Networks
 
 This repository contains all important information about Bachelor's semester project in Semester 5, performed during Autumn 2024 by Fedor Chikhachev, under the supervision of Prof. Luis A. Leiva.
 
