@@ -1,0 +1,29 @@
+2015-05-25.10-50-36 ll s01*slow*_rec.csv 
+2015-05-25.12-24-15 ll *slow*_rec.csv 
+2015-05-25.12-24-43 ll *slow*_rec.csv | wc -l
+2015-05-25.12-24-54 ll *slow*.csv | wc -l
+2015-05-25.12-25-32 ll *slow*.csv | less
+2015-05-25.12-25-37 ll *slow*.csv | less
+2015-05-25.12-26-09 ll *slow*synth_??.csv | less
+2015-05-25.12-26-10 ll *slow*synth_??.csv | less
+2015-05-25.12-26-11 ll *slow*synth_??.csv | less
+2015-05-25.12-26-34 ll *slow*.csv | less
+2015-05-25.12-26-55 ll *arrow*slow*.csv | less
+2015-05-25.12-26-58 ll *arrow*slow*.csv | wc -l
+2015-05-25.12-26-59 ll *arrow*slow*.csv | wc -l
+2015-05-25.12-26-59 ll *arrow*slow*.csv | wc -l
+2015-05-25.12-27-00 ll *arrow*slow*.csv | wc -l
+2015-05-25.20-04-33 sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++
+2015-05-25.20-04-46 sudo npm install canvas
+2015-05-25.20-04-48 sudo npm install canvas
+2015-05-25.20-04-48 sudo npm install canvas
+2015-05-25.20-05-23 #sudo npm install -g canvas
+2015-05-25.20-05-24 llr
+2015-05-25.20-05-32 llr
+2015-05-25.20-05-45 mv node_modules/canvas/ /data/tmp/relacc/node_modules/
+2015-05-25.20-05-46 mv node_modules/canvas/ /data/tmp/relacc/node_modules/
+2015-05-25.20-05-46 mv node_modules/canvas/ /data/tmp/relacc/node_modules/
+2015-05-25.20-05-54 mv node_modules/canvas/ /data/tmp/relacc/node_modules/
+2015-05-25.20-05-54 mv node_modules/canvas/ /data/tmp/relacc/node_modules/
+2015-05-25.20-06-00 rm -rf node_modules/
+2015-05-25.20-06-12 ssh -A luileito@kant3.prhlt.upv.es

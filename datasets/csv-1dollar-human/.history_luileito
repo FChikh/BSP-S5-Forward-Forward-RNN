@@ -1,0 +1,12 @@
+2015-05-22.19-04-51 llr
+2015-05-22.19-04-57 llr *rectangle*
+2015-05-22.19-05-44 llr *rectangle*
+2015-05-22.19-05-45 llr *rectangle*
+2015-05-25.10-46-01 make
+2015-05-25.10-46-12 ll s01*slow*t01.csv | less
+2015-05-25.10-46-16 ll s01*slow*t01.csv 
+2015-05-25.10-46-24 ll ../csv-1dollar-synth-best/s01*slow*t01.csv 
+2015-05-25.10-46-28 ll ../csv-1dollar-synth-best/s01*slow*t01*.csv 
+2015-05-25.10-46-41 ll ../csv-1dollar-synth-best/s01*slow*t01_rec.csv 
+2015-05-25.10-47-02 ll ../csv-1dollar-synth-best/s01*slow*_rec.csv 
+2015-06-03.19-00-43 R
